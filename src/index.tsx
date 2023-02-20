@@ -2,9 +2,9 @@ import React from 'react'
 
 const MyComponent: React.FC = () => {
   return (
-    <h1>
+    <p>
       Hello World!
-    </h1>
+    </p>
   )
 }
 
